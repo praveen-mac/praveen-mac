@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveen-mac
-- 👀 I’m interested in Debuggig and Analysing..
+- 👀 I’m interested in DevOps Debuggig and Analysing..
 - 🌱 I’m currently learning Kubernetes
 - 📫 Reach me at praveen99.mac@gmail.com
 
